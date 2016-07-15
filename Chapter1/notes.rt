@@ -1,0 +1,28 @@
+Interpreting: code translated line by line.
+Compiled: source code ran through a compiler -> object code (machine language)
+
+Java compiler generates byte code, not machine code.  The byte code is
+interpreted by the virtual machine.
+
+Java is compiled and then interpreted.
+hello.java -> hello.class -> interpreted
+
+Similar to Python.
+hello.py -> hello.pyc -> interpreted
+
+I/O, math, testing/branching, repetition
+
+Compiler catches a lot of the errors (Safe language)
+Run-time errors are called exceptions.
+
+Parse (read) the code lines.  Token are basically characters of code.
+
+class CLASSNAME {
+
+    public static void main (String[] args) {
+	STATEMENTS;
+    }
+}
+
+System.out.println is a method provided by one of Java's library.
+A library is a collection of class and method definitions.

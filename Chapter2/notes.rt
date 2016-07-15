@@ -1,0 +1,13 @@
+keywords: reserved words in java that cannot be used for variables names
+	public, class, void, int
+
+
+operators: symbols used to represent computations.  These are not limited
+	adding, subtracting, dividing.
+
+concatenation: the + operator on strings to join them
+
+composition: taking building blocks and composing them into statements (lines)
+of code.  The fundamental units are expressions that reduce to a value.
+
+

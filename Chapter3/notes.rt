@@ -1,0 +1,17 @@
+Java converts ints -> doubles automatically
+
+Use a typecast to go from double to int
+
+//  In python, we would use a builtin
+double pi = 3.14159265;
+int z = (int) pi;
+
+// Access the sqrt static method from the Math class and pass
+// the value 17.0 as the argument
+Math.sqrt(17.0);
+
+
+A class is a collection of related methods
+
+When you call a method, you provide arguments.  The parameters
+of the method signature are what holds the arguments.
